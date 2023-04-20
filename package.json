@@ -1,0 +1,22 @@
+{
+  "name": "simple_e_commerce",
+  "version": "1.0.0",
+  "description": "simple e-commerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eng-marwa/simple_ecommerce.git"
+  },
+  "author": "marwa talaat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eng-marwa/simple_ecommerce/issues"
+  },
+  "homepage": "https://github.com/eng-marwa/simple_ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
